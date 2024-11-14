@@ -1,0 +1,5 @@
+C:/Users/PC/source/repos/Nightsound-Audio/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/source/repos/Nightsound-Audio/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/source/repos/Nightsound-Audio/out/build/x64-debug/Nightsound-Audio/CMakeFiles/Nightsound-Audio.dir
+C:/Users/PC/source/repos/Nightsound-Audio/out/build/x64-debug/Nightsound-Audio/CMakeFiles/edit_cache.dir
+C:/Users/PC/source/repos/Nightsound-Audio/out/build/x64-debug/Nightsound-Audio/CMakeFiles/rebuild_cache.dir
