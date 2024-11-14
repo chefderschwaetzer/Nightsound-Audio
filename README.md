@@ -1,4 +1,4 @@
-# Nightsound Audio
+# Nightsound Audio1
 
 **Nightsound Audio** is a concept for an audio adjustment software designed to enhance the listening experience for users enjoying films and series. Currently in the planning phase, we are seeking contributors to bring expertise and fresh ideas to the team. Since I’m not a professional sound designer or an experienced software developer, any support is welcome!
 
